@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Notification Service
 
 A real-time notification microservice for CircleConnect built with Node.js, Express, and Socket.IO.
@@ -75,3 +76,6 @@ The service uses Winston for logging:
 - File logging in production
 - Error logs are stored in `error.log`
 - Combined logs are stored in `combined.log` 
+=======
+# notification-service
+>>>>>>> 4b75998752526d4adb07f9fbbcd91dfc448f0442
